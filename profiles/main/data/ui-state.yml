@@ -1,122 +1,26 @@
 Dart-Code.dart-code: '{"experiment-sdkDaps":85,"experiment-sdkDaps-hasActivated":true,"lastUsedNewProjectPath":"C:\\Users\\x\\Documents\\New
   folder\\visual3","lastSeenVersion":"3.98.0","flutterSurvey2024Q4NotificationLastShown":1731542293415}'
-DEVSENSE.composer-php-vscode: '{"latest.phar.timestamp":1730455862.31}'
-DEVSENSE.intelli-php-vscode: '{"welcome.lastversion":"0.12","intelliphp.texp":"Fri,
-  14 Jun 2024 04:39:16 GMT","intelliphp.tnot":1}'
-DEVSENSE.phptools-vscode: '{"welcome.lastversion":"1.46"}'
-ms-python.python: "{\"pylanceDefaultPromptMemento\":true,\"PYTHON_ENV_INFO_CACH\
-  Ev2\":[{\"name\":\"arknights_macro-vkjJsskj\",\"location\":\"C:\\\\Users\\\\x\
-  \\\\.virtualenvs\\\\arknights_macro-vkjJsskj\",\"kind\":\"virt-venv\",\"execu\
-  table\":{\"filename\":\"C:\\\\Users\\\\x\\\\.virtualenvs\\\\arknights_macro-v\
-  kjJsskj\\\\Scripts\\\\python.exe\",\"sysPrefix\":\"\",\"ctime\":1716110563528,\
-  \"mtime\":1716110563528},\"display\":\"Python 3.12.2
-  ('arknights_macro-vkjJsskj')\",\"version\":{\"major\":3,\"minor\":12,\"micro\
-  \":2,\"release\":{\"level\":\"final\",\"serial\":0}},\"arch\":1,\"distro\":{\
-  \"org\":\"\"},\"source\":[],\"type\":\"Virtual\",\"id\":\"C:\\\\USERS\\\\X\\\
-  \\.VIRTUALENVS\\\\ARKNIGHTS_MACRO-VKJJSSKJ\\\\SCRIPTS\\\\PYTHON.EXE\",\"detai\
-  ledDisplayName\":\"Python 3.12.2 ('arknights_macro-vkjJsskj':
-  venv)\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-other\",\"executa\
-  ble\":{\"filename\":\"C:\\\\Users\\\\x\\\\scoop\\\\apps\\\\python\\\\3.12.3\\\
-  \\python.exe\",\"sysPrefix\":\"C:\\\\Users\\\\x\\\\scoop\\\\apps\\\\python\\\
-  \\3.12.3\",\"ctime\":1717198915303,\"mtime\":1712645462000},\"display\":\"Pyt\
-  hon 3.12.3
-  64-bit\",\"version\":{\"major\":3,\"minor\":12,\"micro\":3,\"release\":{\"lev\
-  el\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.3 (tags/v3.12.3:f6650f9,
-  Apr  9 2024, 14:05:25) [MSC v.1938 64 bit
-  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"PythonCore\",\"defaultDisplayName\
-  \":\"Python 3.12 (64-bit)\"},\"source\":[\"windows
-  registry\"],\"id\":\"C:\\\\USERS\\\\X\\\\SCOOP\\\\APPS\\\\PYTHON\\\\3.12.3\\\
-  \\PYTHON.EXE\",\"detailedDisplayName\":\"Python 3.12.3
-  64-bit\"},{\"name\":\"\",\"location\":\"\",\"kind\":\"global-system\",\"execu\
-  table\":{\"filename\":\"C:\\\\Users\\\\x\\\\scoop\\\\apps\\\\python\\\\current\
-  \\\\python.exe\",\"sysPrefix\":\"C:\\\\Users\\\\x\\\\scoop\\\\apps\\\\python\\\
-  \\current\",\"ctime\":1717198915303,\"mtime\":1712645462000},\"display\":\"Py\
-  thon 3.12.3 64-bit
-  (system)\",\"version\":{\"major\":3,\"minor\":12,\"micro\":3,\"release\":{\"l\
-  evel\":\"final\",\"serial\":0},\"sysVersion\":\"3.12.3 (tags/v3.12.3:f6650f9,
-  Apr  9 2024, 14:05:25) [MSC v.1938 64 bit
-  (AMD64)]\"},\"arch\":3,\"distro\":{\"org\":\"\"},\"source\":[\"path env
-  var\"],\"id\":\"C:\\\\USERS\\\\X\\\\SCOOP\\\\APPS\\\\PYTHON\\\\CURRENT\\\\PYT\
-  HON.EXE\",\"detailedDisplayName\":\"Python 3.12.3 64-bit
-  (system)\"}],\"preferredGlobalPyInterpreter\":{\"id\":\"C:\\\\USERS\\\\X\\\\A\
-  PPDATA\\\\LOCAL\\\\PROGRAMS\\\\PYTHON\\\\PYTHON312\\\\PYTHON.EXE\",\"sysPrefix\
-  \":\"C:\\\\Users\\\\x\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\
-  \",\"envType\":\"Global\",\"envName\":\"\",\"envPath\":\"\",\"path\":\"C:\\\\\
-  Users\\\\x\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.e\
-  xe\",\"architecture\":3,\"sysVersion\":\"3.12.2 (tags/v3.12.2:6abddd9, Feb  6
-  2024, 21:26:36) [MSC v.1937 64 bit
-  (AMD64)]\",\"version\":{\"raw\":\"3.12.2\",\"major\":3,\"minor\":12,\"patch\"\
-  :2,\"build\":[],\"prerelease\":[\"final\",\"0\"]},\"companyDisplayName\":\"Py\
-  thonCore\",\"displayName\":\"Python 3.12.2
-  64-bit\",\"detailedDisplayName\":\"Python 3.12.2
-  64-bit\"},\"autoSelectionInterpretersQueriedOnce\":true,\"isRemoteGlobalSetti\
-  ngCopiedKey\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\X\\\\DOCUM\
-  ENTS\\\\ARKNIGHTS
-  MACRO\":true,\"remoteWorkspaceFolderKeysForWhichTheCopyIsDone_Key\":[\"C:\\\\\
-  USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010381\",\"C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010348\",\"C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\FLUTTER_APPLICATION_1\",\"C:\\\\USERS\\\\X\\\\DOCUMENTS\\\
-  \\ARKNIGHTS-MACRO\",\"C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\ARKNIGHTS
-  MACRO\"],\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\
-  \\ARKNIGHTS
-  MACRO\":\"C:\\\\Users\\\\x\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Pytho\
-  n312\\\\python.exe\",\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\X\\\\DOC\
-  UMENTS\\\\ARKNIGHTS-MACRO\":true,\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\US\
-  ERS\\\\X\\\\DOCUMENTS\\\\ARKNIGHTS-MACRO\":\"C:\\\\Users\\\\x\\\\scoop\\\\apps\
-  \\\\python\\\\3.12.3\\\\python.exe\",\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\U\
-  SERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\FLUTTER_APPLICATION_1\":true,\"PYTHON_WAS_DISCOVERY_TRIG\
-  GERED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010348\":true,\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\
-  \\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010381\":true,\"PYTHON_GLOBAL_STORAGE_KEYS\":[{\
-  \"key\":\"PYTHON_WAS_DISCOVERY_TRIGGERED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010381\",\"defaultValue\":false},{\"key\":\"WORK\
-  SPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010381\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGE\
-  RED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010348\",\"defaultValue\":false},{\"key\":\"WORK\
-  SPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\UTS_2210010348\"},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGE\
-  RED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\FLUTTER_APPLICATION_1\",\"defaultValue\":false},{\"key\":\
-  \"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\NEW
-  FOLDER\\\\VISUAL3\\\\FLUTTER_APPLICATION_1\"},{\"key\":\"PYTHON_WAS_DISCOVERY\
-  _TRIGGERED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\ARKNIGHTS-MACRO\",\"defaultValue\
-  \":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_C:\\\\USERS\\\\X\\\\DO\
-  CUMENTS\\\\ARKNIGHTS-MACRO\"},{\"key\":\"remoteWorkspaceFolderKeysForWhichThe\
-  CopyIsDone_Key\",\"defaultValue\":[]},{\"key\":\"PYTHON_WAS_DISCOVERY_TRIGGER\
-  ED_C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\ARKNIGHTS
-  MACRO\",\"defaultValue\":false},{\"key\":\"WORKSPACE_FOLDER_INTERPRETER_PATH_\
-  C:\\\\USERS\\\\X\\\\DOCUMENTS\\\\ARKNIGHTS
-  MACRO\"},{\"key\":\"SHELL_INTEGRATION_WORKING_KEY_other\"},{\"key\":\"VSCode.\
-  ABExp.FeatureData\",\"defaultValue\":{\"features\":[]}},{\"key\":\"isRemoteGl\
-  obalSettingCopiedKey\",\"defaultValue\":false},{\"key\":\"autoSelectionInterp\
-  retersQueriedOnce\"},{\"key\":\"PYTHON_EXTENSION_GLOBAL_STORAGE_KEYS\",\"defa\
-  ultValue\":[]},{\"key\":\"PYTHON_ENV_INFO_CACHEv2\",\"defaultValue\":[]},{\"k\
-  ey\":\"PythonTensorBoardWebviewPreferredViewGroup\",\"defaultValue\":-1},{\"k\
-  ey\":\"SHELL_INTEGRATION_WORKING_KEY_commandPrompt\"},{\"key\":\"preferredGlo\
-  balPyInterpreter\"}]}"
-ms-toolsai.jupyter: '{"CACHE_KEY_FOR_JUPYTER_KERNELSPEC_ROOT_PATH.":"file:///c%3A/Users/x/AppData/Roaming/jupyter/kernels","INTERPRETER_PATH_WAS_SELECTED_FOR_JUPYTER_SERVER":true}'
 PKief.material-icon-theme: '{"material-icon-theme.version":"4.21.0"}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
 rust-lang.rust-analyzer: '{"serverVersion":"0.3.1958"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":false,"visible":false,"order":7},{"id":"workbench.panel.chatSidebar","pinned":true,"order":100},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.jupyter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":false,"visible":false,"order":7},{"id":"workbench.panel.chatSidebar","pinned":true,"order":100},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.cmake__viewContainer","pinned":true,"visible":false,"order":8},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
-  in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
-  npm:showScriptExplorer\"},{\"when\":\"config.dart.enablePub &&
+  in\":true,\"views\":[{},{},{\"when\":\"jupyter.hasNativeNotebookOrInteractive\
+  WindowOpen\"},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"npm:showScrip\
+  tExplorer\"},{\"when\":\"config.dart.enablePub &&
   dart-code:anyProjectLoaded\"},{\"when\":\"git.commit.selected &&
   git.commit.view.show &&
   !config.gitHistory.hideCommitViewExplorer\"},{\"when\":\"git.commit.compare.c\
   ompared && git.commit.compare.view.show &&
   !config.gitHistory.hideCompareCommitViewExplorer\"},{\"when\":\"config.rust-a\
   nalyzer.showDependenciesExplorer &&
-  inRustProject\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"\
-  search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\
-  \"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\
-  \"},\"name\":\"Source
+  inRustProject\"},{\"when\":\"jupyter.hasNativeNotebookOrInteractiveWindowOpen
+  &&
+  jupyter:showTagsExplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\"\
+  :{\"id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\
+  \":[{}]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-contro\
+  l-view-icon\"},\"name\":\"Source
   Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
   scm.providerCount !=
   '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
@@ -136,9 +40,29 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   ote-explorer-view-icon\"},\"name\":\"Remote
   Explorer\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extensio\
   ns\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\
-  \"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extension.test\",\"\
-  themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":tr\
-  ue,\"views\":[{\"when\":\"testing.providerCount >
+  \"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\
+  \"searchExtensionUpdates ||
+  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
+  && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
+  searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
+  en\":\"defaultExtensionViews && hasGallery &&
+  !config.extensions.showRecommendationsOnlyOnDemand &&
+  !sortByUpdateDate\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"defaultExtensionViews &&
+  hasInstalledExtensions\"},{\"when\":\"searchMarketplaceExtensions\"},{\"when\
+  \":\"installedExtensions ||
+  searchInstalledExtensions\"},{\"when\":\"searchEnabledExtensions\"},{\"when\":\
+  \"searchDisabledExtensions\"},{\"when\":\"searchBuiltInExtensions\"},{\"when\
+  \":\"searchWorkspaceUnsupportedExtensions\"},{\"when\":\"builtInExtensions\"}\
+  ,{\"when\":\"builtInExtensions\"},{\"when\":\"builtInExtensions\"},{\"when\":\
+  \"searchUnsupportedWorkspaceExtensions\"},{\"when\":\"searchUnsupportedWorksp\
+  aceExtensions\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchUnsupportedWorkspaceExtensions &&
+  virtualWorkspace\"},{\"when\":\"searchDeprecatedExtensions\"}]},{\"id\":\"wor\
+  kbench.view.extension.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\
+  \":\"Testing\",\"isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount
+  >
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
@@ -149,11 +73,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   vg\",\"scheme\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\":false,\"views\":\
   [{\"when\":\"dart-code:anyFlutterProjectLoaded &&
   dart-code:flutterSidebarSupported\"},{\"when\":\"dart-code:anyFlutterProjectL\
-  oaded\"}]},{\"id\":\"workbench.view.extension.jupyter\",\"themeIcon\":{\"id\":\
-  \"notebook\"},\"name\":\"Jupyter\",\"isBuiltin\":false,\"views\":[]},{\"id\":\
-  \"workbench.view.extension.cmake__viewContainer\",\"isBuiltin\":false},{\"id\
-  \":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-icon\"},\
-  \"name\":\"Settings
+  oaded\"}]},{\"id\":\"workbench.view.extension.cmake__viewContainer\",\"isBuil\
+  tin\":false},{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings\
+  -sync-view-icon\"},\"name\":\"Settings
   Sync\",\"isBuiltin\":true,\"views\":[{\"when\":\"enableSyncConflictsView &&
   hasConflicts\"},{\"when\":\"enableSyncActivityViews &&
   userDataSyncAccountStatus == 'available' && syncStatus !=
@@ -164,9 +86,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   'uninitialized'\"},{\"when\":\"enableSyncActivityViews\"},{\"when\":\"enableS\
   yncActivityViews\"}]},{\"id\":\"workbench.view.editSessions\",\"themeIcon\":{\
   \"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
-  Changes\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"userDataProfiles\",\"the\
-  meIcon\":{\"id\":\"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\"\
-  :true,\"views\":[]}]"
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ,{\"id\":\"userDataProfiles\",\"themeIcon\":{\"id\":\"defaultProfile-icon\"},\
+  \"name\":\"Profiles\",\"isBuiltin\":true,\"views\":[]}]"
 workbench.activityBar.hidden: "false"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "256"
@@ -202,7 +124,7 @@ workbench.view.extension.references-view.state.hidden: '[{"id":"references-view.
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.installed.empty","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "39"
+workbench.views.extensions.installed.size: "19"
 workbench.views.service.panel.4d30c499-d7fb-4198-9c27-fa4827085aff.state.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.views.service.panel.b588d808-0dcc-4516-9e3a-382fe3077331.state.hidden:
   '[{"id":"workbench.panel.markers.view","isHidden":false,"order":1},{"id":"terminal","isHidden":false,"order":0}]'
