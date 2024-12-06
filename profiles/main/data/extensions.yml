@@ -6,6 +6,8 @@ enabled:
     uuid: 55f2cc0f-acb9-4fb0-bf94-e0328e3c43fd
   - id: astro-build.astro-vscode
     uuid: 1fbbc8b0-7432-4b7e-8774-3336151da2f3
+  - id: bmewburn.vscode-intelephense-client
+    uuid: ffda6552-0ad5-431b-a4fa-0905a7e4f3f0
   - id: bradlc.vscode-tailwindcss
     uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
   - id: Dart-Code.dart-code
@@ -20,8 +22,12 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
-  - id: melishev.feather-vscode
-    uuid: 94967fdb-d7bf-44d0-b131-12700358b0ab
+  - id: matt-rudge.auto-open-preview-panel
+    uuid: f9274c7c-4978-4510-8039-cdc048b88967
+  - id: miguelsolorio.fluent-icons
+    uuid: 41aac8eb-b4f4-408d-9708-320d033a17f8
+  - id: ms-pyright.pyright
+    uuid: 593fe6a5-513e-4cb3-abfb-5b9f5fe39802
   - id: PKief.material-icon-theme
     uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: redhat.java
@@ -32,8 +38,6 @@ enabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
-  - id: thqby.vscode-autohotkey2-lsp
-    uuid: 602ce52a-5c3f-4c52-9173-40f68c29d81b
   - id: yzhang.markdown-all-in-one
     uuid: 98790d67-10fa-497c-9113-f6c7489207b2
   - id: zokugun.cron-tasks

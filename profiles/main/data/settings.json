@@ -40,7 +40,7 @@
     "editor.defaultFormatter": "rust-lang.rust-analyzer"
   },
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.productIconTheme": "feather-vscode",
+  "workbench.productIconTheme": "fluent-icons",
   "workbench.colorTheme": "Solarized Light",
   "editor.smoothScrolling": true,
   "editor.cursorSmoothCaretAnimation": "on",
