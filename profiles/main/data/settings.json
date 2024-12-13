@@ -94,5 +94,9 @@
   "workbench.editor.closeOnFileDelete": true,
   "workbench.settings.enableNaturalLanguageSearch": false,
   "workbench.settings.useSplitJSON": true,
-  "diffEditor.experimental.showMoves": true
+  "diffEditor.experimental.showMoves": true,
+  "rust-analyzer.cargo.buildScripts.useRustcWrapper": false,
+  "syncSettings.confirmSync": true,
+  "tailwindCSS.emmetCompletions": true,
+  "rust-analyzer.initializeStopped": true
 }
