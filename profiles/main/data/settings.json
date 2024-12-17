@@ -98,5 +98,6 @@
   "rust-analyzer.cargo.buildScripts.useRustcWrapper": false,
   "syncSettings.confirmSync": true,
   "tailwindCSS.emmetCompletions": true,
-  "rust-analyzer.initializeStopped": true
+  "rust-analyzer.initializeStopped": true,
+  "autoOpenPreviewPanel.openPreviewToSide": true
 }
