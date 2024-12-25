@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "key": "ctrl+alt+0",
+    "command": "codesnap.start"
+  }
+]
