@@ -22,6 +22,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: formulahendry.code-runner
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
+  - id: mark-wiemer.vscode-autohotkey-plus-plus
+    uuid: cf96e3c7-3b07-4403-acc9-2b6299ba7877
   - id: matt-rudge.auto-open-preview-panel
     uuid: f9274c7c-4978-4510-8039-cdc048b88967
   - id: miguelsolorio.fluent-icons
